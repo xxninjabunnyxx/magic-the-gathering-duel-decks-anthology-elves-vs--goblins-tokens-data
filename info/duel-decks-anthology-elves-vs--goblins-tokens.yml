@@ -1,0 +1,16 @@
+---
+object: set
+id: b9ffeaf1-b0d1-4fbc-a899-c41d37c7203e
+code: tevg
+name: 'Duel Decks Anthology: Elves vs. Goblins Tokens'
+uri: https://api.scryfall.com/sets/b9ffeaf1-b0d1-4fbc-a899-c41d37c7203e
+scryfall_uri: https://scryfall.com/sets/tevg
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atevg&unique=prints
+released_at: '2014-12-05'
+set_type: token
+card_count: 3
+parent_set_code: evg
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/dd1.svg?1694404800
